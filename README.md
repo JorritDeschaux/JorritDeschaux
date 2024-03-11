@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorrit Deschaux</h1>
-<h3 align="center">An Artificial Intelligence Engineer with a background in Software Engineering. My main passions are developing useful software that can have an impact on the world, like I have with AI and the creation of a SEO platform and the creation of an AI model that can help device battery removal factories to work safer. I like to code in Python, C#, Rust and more new and upcoming languages.</h3>
+<h3 align="center">An Artificial Intelligence Engineer with a background in Software Engineering. My main passions are developing useful software that can have an impact on the world, like I have done with AI and the creation of an SEO platform and the creation of an AI model that can help removal of device batteries in recycle factories to work towards a safer environment (in and outside the factories). 
+  
+I like to code in Python, C#, Rust and more new and upcoming languages.</h3>
 
 - 🔭 I’m currently working on [SEO Content Generation](https://spienzer.com/)
 
